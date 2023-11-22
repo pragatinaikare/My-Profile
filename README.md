@@ -9,7 +9,9 @@
   - Statistical Modeling
   - Data Visualization
 
+🔍 Actively seeking opportunities to contribute to intriguing data projects and collaborate on innovative solutions
+
 ## Contact Me
-Feel free to reach out for collaboration or inquiries:
+📫 Let's connect! Feel free to reach out:
 - LinkedIn: https://www.linkedin.com/in/pragati-naikare-7a96151a9/
 
