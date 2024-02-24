@@ -6,10 +6,15 @@
 - 📊 Proficient in:
   - Data Analysis
   - Machine Learning
+  - Deep Learning
+  - Computer Vision
   - Statistical Modeling
   - Data Visualization
   - Cloud Computing (Microsoft Azure)
-
+- 📊 Exploring:
+   - Transformers
+   - Large language models
+     
 🔍 Actively seeking opportunities to contribute to intriguing data projects and collaborate on innovative solutions
 
 📫 Let's connect! Feel free to reach out:
