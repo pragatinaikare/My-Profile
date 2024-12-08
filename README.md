@@ -1,21 +1,20 @@
 # Welcome to My Profile! 👋
 
 ## About Me
-- 👩‍💻 Pursuing a Master's degree in Data Science.
-- 🌟 Passionate about unraveling insights from data and crafting impactful stories.
+I am a Master’s student in Data Science at Texas A&M University, currently working with Geisinger as a Data Science Intern. I am actively seeking full-time opportunities in the field of Data Science, starting May 2025,  in the field of Data Science.
+
 - 📊 Proficient in:
-  - Data Analysis
   - Machine Learning
   - Deep Learning
-  - Computer Vision
+  - RAG Frameworks
+  - Generative AI
+  - LLM Fine-tuning 
   - Statistical Modeling
+  - Data Analysis
+  - Computer Vision
   - Data Visualization
-  - Cloud Computing (Microsoft Azure)
-- 📊 Exploring:
-   - Transformers
-   - Large language models
+  - Cloud Computing (AWS/Azure)
      
-🔍 Actively seeking opportunities to contribute to intriguing data projects and collaborate on innovative solutions
 
 📫 Let's connect! Feel free to reach out:
 - LinkedIn: https://www.linkedin.com/in/pragati-naikare-7a96151a9/
